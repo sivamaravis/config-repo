@@ -1,6 +1,6 @@
 info:
-  description: Spring Cloud Samples
-  url: https://github.com/spring-cloud-samples
+  description: Spring Cloud Samples chanbged
+  url: https://github.com/spring-cloud-samples changed
 eureka:
   client:
     serviceUrl:
